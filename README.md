@@ -14,9 +14,8 @@
 
 ---
 
-<!--🖼️SHREK-->
 <p align="center">
-  <img src="https://media.giphy.com/media/eCttnfY9BNeHS/giphy.gif" width="480" height="271" alt="Shrek GIF">
+  <img src="https://giphy.com/embed/VeOAG5fkGAdEodtKfW" width="480" height="271" alt="Shrek GIF">
 </p>
 
 <!--📏LINE-->
