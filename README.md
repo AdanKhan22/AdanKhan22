@@ -16,7 +16,8 @@
 
 <!--🖼️SHREK-->
 <p align="center">
-<iframe src="https://giphy.com/embed/eCttnfY9BNeHS" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shrek-eCttnfY9BNeHS"></a></p>
+  <img src="https://media.giphy.com/media/eCttnfY9BNeHS/giphy.gif" width="480" height="271" alt="Shrek GIF">
+</p>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
