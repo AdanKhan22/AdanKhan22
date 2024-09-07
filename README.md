@@ -16,18 +16,19 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/VeOAG5fkGAdEodtKfW/giphy.gif" width="480" height="480" alt="Shrek Me Time GIF">
-</p>
+
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--🖼️ILOVEOPENSOURCE-->
+<p align="center">
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
 
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
-
+</p>
 <!--📏LINE-->
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
